@@ -1,7 +1,6 @@
 name: Notes Application CI Pipeline
 # create a CI pipeline based on the assignment specification
 # remember to commit often
-name: Lab 4 CI Pipeline
 on:
   push:
     branches:
